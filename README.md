@@ -89,8 +89,6 @@ Harici dosyalar oluşturma, dosyalara veri yazma ve mevcut dosyaları okuma aşa
 ### C# Örnek (Dosyaya Yazma ve Okuma):
 
 ```csharp
-using System.IO;
-
 // Dosya oluşturma ve yazma
 File.WriteAllText("bilgi.txt", "Merhaba Programlama Dünyası!");
 
