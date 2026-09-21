@@ -20,7 +20,7 @@ Algoritma, belirli bir problemi çözmek veya belirli bir amaca ulaşmak için t
 
 Geliştirilen mantığın bilgisayar koduna dökülmeden önce formüle edilmesi gerekir. Bu amaçla üç temel yöntem kullanılır:
 
-#### A. İfadesi
+#### A. Basitçe Algoritma
 Problemin çözüm adımlarının doğal dille yazılmasıdır. Ancak doğal dildeki anlam karmaşaları (kesinlik ilkesine aykırılık) nedeniyle karmaşık problemlerde tercih edilmez.
 
 #### B. Sözde Kod (Pseudocode)
