@@ -9,7 +9,7 @@ Bu süreçte temel alınan iki ana kavram **algoritma** ve **programlama mantı�
 
 ### 1. Algoritma Nedir?
 
-Algoritma, belirli bir problemi çözmek veya belirli bir amaca ulaşmak için tasarlanmış, başlangıcı ve sonu olan, sonlu sayıdaki adımlardan oluşan kesin kurallar dizisidir. Başarılı bir algoritmanın matematiksel ve mantıksal olarak taşıması gereken beş temel özellik vardır:
+Algoritma, belirli bir problemi çözmek veya belirli bir amaca ulaşmak için tasarlanmış, başlangıcı ve sonu olan, sonlu sayıdaki adımlardan oluşan kesin kurallar dizisidir. Başarılı bir algoritmanın matematiksel ve mantıksal olarak taşıması gereken temel özellikler vardır:
 
 *   **Girdi (Input):** Algoritma dışarıdan sıfır veya daha fazla değer alabilir. Başlangıç durumunu belirleyen verilerdir.
 *   **Çıktı (Output):** Algoritma, en az bir sonuç (çıktı) üretmelidir. Girdilerin işlenmesiyle elde edilen çözüm değeridir.
