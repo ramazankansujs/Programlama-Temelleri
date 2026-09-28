@@ -10,11 +10,8 @@ Bu harita sayesinde, programın baştan sona nasıl çalışacağını ve nerede
 
 Bir akış şeması çizerken herkesin aynı şeyi anlaması için şu basit kurallara uyarız:
 
-1. **Başı ve Sonu Belli Olmalı:** Her çizim mutlaka bir "BAŞLA" şekli (Elips) ile başlar ve "BİTİR" şekli ile son bulur.
-2. **Yönümüz Belli Olmalı:** Çizimler genelde yukarıdan aşağıya ve soldan sağa doğru ilerler.
-3. **Oklar Karışmamalı:** Şekilleri birbirine bağlayan oklar birbirine dolanmamalıdır.
-4. **Kısa Notlar Kullanılmalı:** Şekillerin içine uzun cümleler yazılmaz. Sadece "Sayıyı oku", "Topla", "Yazdır" gibi kısa notlar yazılır.
-5. **Yol Ayrımları (Kararlar):** Soru sorduğumuz şekillerden (Eşkenar Dörtgen) her zaman iki yol çıkmalıdır: `Evet` ve `Hayır`.
+<img width="670" height="715" alt="image" src="https://github.com/user-attachments/assets/75e0db20-8bd9-4067-b9a0-a8cdce00a479" />
+
 
 ### 2. Bir Örnek: Ehliyet Yaşı Kontrolü
 
