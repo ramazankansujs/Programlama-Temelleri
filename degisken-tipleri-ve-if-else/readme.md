@@ -1,6 +1,4 @@
-# En Temel C# Rehberi
 
-Bu rehber, C# programlamanın en temel mantığını anlamak için hazırlanmıştır. 
 
 ## 1. Klavyeden Veri Girip İşlem Yapan Program Örneği
 
