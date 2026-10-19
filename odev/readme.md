@@ -1,3 +1,6 @@
+Kullanıcının girdiği sayıyı daha önceden sistemin oluşturduğu bi sayı ile karşılaştırıp kullanıcıya bildiren program.
+
+
 ```csharp
 Console.WriteLine("Bir sayı girin: ");
 
